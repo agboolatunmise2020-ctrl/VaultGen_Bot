@@ -3,7 +3,7 @@ import secrets
 import string
 from telebot import types
 
-API_TOKEN = 'YOUR_BOT_TOKEN'
+API_TOKEN = '8569068876:AAFylndLGUzxs6oXaGF-JcopdQiXM80s_iQ'
 bot = telebot.TeleBot(API_TOKEN)
 
 user_prefs = {}
